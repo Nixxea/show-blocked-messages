@@ -1,0 +1,7 @@
+{
+  "name": "Show Blocked Messages",
+  "version": "1.0.0",
+  "description": "Shows blocked messages as from regular users",
+  "author": "Nixea",
+  "license": "MIT"
+}
